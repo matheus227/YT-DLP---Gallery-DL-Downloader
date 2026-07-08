@@ -5,7 +5,7 @@ import time
 
 # Configurações personalizadas por você
 NAVEGADOR_COOKIES = "brave"
-PASTA_DESTINO = r"C:\Users\mathe\Pictures\Docs\Baixados\poesia"
+PASTA_DESTINO = r"destino" #ex: C:\Users\user\Desktop
 
 def inicializar_pasta():
     """Garante que a pasta de destino existe."""
